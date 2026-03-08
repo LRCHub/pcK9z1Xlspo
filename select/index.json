@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "量産型障害者女",
+  "base_artist": "Yxn KILA",
+  "createdAt": "2026-03-08T06:01:57.953220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "量産型障害者女 (feat. imaizumiyui)",
+      "artist": "Yxn KILA",
+      "has_synced": false,
+      "path": "select/pl_01_量産型障害者女_(feat._imaizumiyui)_Yxn_KILA.txt"
+    }
+  ]
+}
